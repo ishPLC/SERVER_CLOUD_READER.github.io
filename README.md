@@ -1,5 +1,5 @@
 # SERVER_CLOUD_READER.github.io  # IoT
-# 2 x Server - Client Apps: 'Server' and 'Reader'. 
+# 2 Apps: 'Server' and 'Reader'. 
 # IDE C++ Builder 10.2 (Embarcadero \ Idera), PLC Arduino, PC W10.
 # Home(Car) parameters: T(C) & H(%) temperature, humidity, etc -> online monitoring;
 # PLC -> PC'Server' -> Cloud -> PC'Reader'   
